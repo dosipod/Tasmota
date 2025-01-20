@@ -19,6 +19,7 @@
 
 #ifndef _MY_USER_CONFIG_H_
 #define _MY_USER_CONFIG_H_
+#define USE_WEBSEND_RESPONSE
 
 /*********************************************************************************************\
  * This file consists of TWO sections.
